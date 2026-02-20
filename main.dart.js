@@ -41358,7 +41358,7 @@ m=A.yL(new A.cN(i)).glS()
 if(m==null){n.n4("Usuario no autenticado")
 n.a5(new A.aoJ(n))
 s=1
-break}if(!B.c.q(a1,"urbanodepas.mx")){n.n4("QR no autorizado")
+break}if(!B.c.q(a1,"https://view.page/9r4Jb7")){n.n4("QR no autorizado")
 n.a5(new A.aoK(n))
 s=1
 break}p=4
